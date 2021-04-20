@@ -50,6 +50,7 @@ A search engine for the Turkish Presidency of Strategy and Budget [(SBB)](https:
 
 ## Swap Data
 
+Currently the swap between the CBRT and Local Banks released as [pdf.](https://www.tcmb.gov.tr/wps/wcm/connect/a6ffdb2f-47d9-4ae9-8c39-5075867aaec3/TCMB+Tarafl%C4%B1+Swap+%C4%B0%C5%9Flemleri.pdf?MOD=AJPERES)Me, [Berat Yücel](https://github.com/baradyu/), and Ömer Taha Gülberk released it as [xlsx]() and [csv](https://raw.githubusercontent.com/aiasci/swap/master/2021-04-20.swap.csv) format. 
 
 
 ----------------------------------------------------------------------------------------------------------------------
