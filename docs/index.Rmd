@@ -8,10 +8,9 @@ css: main.css
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-----------------------------------------------------------------------------------------------------------------------
-
+------------------------------------------------------------------------
 
 # Publications
 
@@ -21,8 +20,7 @@ This study examines the rapid credit expansion periods from local branches of th
 
 [! Link !](https://aiasci.github.io/credit/)
 
-
--------------------------------------------
+------------------------------------------------------------------------
 
 # Projects
 
@@ -44,20 +42,18 @@ A search engine for the Turkish Presidency of Strategy and Budget [(SBB)](https:
 
 [! Link !](https://aiasci.shinyapps.io/searcher/)
 
--------------------------------------------
+------------------------------------------------------------------------
 
 # Data
 
 ## Swap Data
 
-Currently the swap between the CBRT and Local Banks released as [pdf.](https://www.tcmb.gov.tr/wps/wcm/connect/a6ffdb2f-47d9-4ae9-8c39-5075867aaec3/TCMB+Tarafl%C4%B1+Swap+%C4%B0%C5%9Flemleri.pdf?MOD=AJPERES)Me, [Berat Yücel](https://github.com/baradyu/), and Ömer Taha Gülberk released it as [xlsx](```{r} paste0("https://github.com/aiasci/swap/raw/master/", as.Date(Sys.time()),".swap.xlsx")```) and [csv](```{r} paste0("https://raw.githubusercontent.com/aiasci/swap/master/", as.Date(Sys.time()),".swap.csv")```) format. Data will be updated daily when it is updated.
+Currently the swap between the CBRT and Local Banks released as [pdf.](https://www.tcmb.gov.tr/wps/wcm/connect/a6ffdb2f-47d9-4ae9-8c39-5075867aaec3/TCMB+Tarafl%C4%B1+Swap+%C4%B0%C5%9Flemleri.pdf?MOD=AJPERES)Me, [Berat Yücel](https://github.com/baradyu/), and Ömer Taha Gülberk released it as [xlsx](https://github.com/aiasci/swap/raw/master/2021-04-21.swap.xlsx) and [csv](https://github.com/aiasci/swap/raw/master/2021-04-21.swap.csv) format. Data will be updated daily when it is updated.
 
 
 
+------------------------------------------------------------------------
 
-
-----------------------------------------------------------------------------------------------------------------------
-
-----------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 [! Mail ME !](mailto:ismet.asci@outlook.com){.highlight .pre} [! Github !](https://github.com/aiasci/) [! LinkedIn !](https://www.linkedin.com/in/ismetasci/)
