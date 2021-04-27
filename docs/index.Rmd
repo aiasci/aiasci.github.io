@@ -48,7 +48,7 @@ A search engine for the Turkish Presidency of Strategy and Budget [(SBB)](https:
 
 ## Swap Data
 
-Currently the swap between the CBRT and Local Banks released as [pdf.](https://www.tcmb.gov.tr/wps/wcm/connect/a6ffdb2f-47d9-4ae9-8c39-5075867aaec3/TCMB+Tarafl%C4%B1+Swap+%C4%B0%C5%9Flemleri.pdf?MOD=AJPERES)Me, [Berat Yücel](https://github.com/baradyu/), and Ömer Taha Gülberk released it as [xlsx](https://github.com/aiasci/swap/raw/master/2021-04-22.swap.xlsx) and [csv](https://github.com/aiasci/swap/raw/master/2021-04-22.swap.csv) format. Data will be updated daily when it is updated.
+Currently the swap between the CBRT and Local Banks released as [pdf.](https://www.tcmb.gov.tr/wps/wcm/connect/a6ffdb2f-47d9-4ae9-8c39-5075867aaec3/TCMB+Tarafl%C4%B1+Swap+%C4%B0%C5%9Flemleri.pdf?MOD=AJPERES)Me, [Berat Yücel](https://github.com/baradyu/), and Ömer Taha Gülberk released it as [xlsx](https://github.com/aiasci/swap/raw/master/2021-04-27.swap.xlsx) and [csv](https://github.com/aiasci/swap/raw/master/2021-04-27.swap.csv) format. Data will be updated daily when it is updated.
 
 
 
