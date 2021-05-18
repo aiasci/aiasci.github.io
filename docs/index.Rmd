@@ -42,6 +42,13 @@ A search engine for the Turkish Presidency of Strategy and Budget [(SBB)](https:
 
 [! Link !](https://aiasci.shinyapps.io/searcher/)
 
+## CBRT Reserves
+
+By using the Swap Data above, I and [Ömer Taha Gülberk](https://www.linkedin.com/in/omertahagulberk/) prepared a [website](https://tcmb-reserves.github.io/) about CBRT's Net Reserves and Net Reserves excluding Swap. Website updates itself weekly when the data is released.
+
+[! Link !](https://tcmb-reserves.github.io)
+
+
 ------------------------------------------------------------------------
 
 # Data
@@ -50,12 +57,6 @@ A search engine for the Turkish Presidency of Strategy and Budget [(SBB)](https:
 
 Currently the swap between the CBRT and Local Banks released as [pdf.](https://www.tcmb.gov.tr/wps/wcm/connect/a6ffdb2f-47d9-4ae9-8c39-5075867aaec3/TCMB+Tarafl%C4%B1+Swap+%C4%B0%C5%9Flemleri.pdf?MOD=AJPERES) I,and [Ömer Taha Gülberk](https://www.linkedin.com/in/omertahagulberk/) released it as [xlsx](https://github.com/aiasci/swap/raw/master/swap.xlsx) and [csv](https://github.com/aiasci/swap/raw/master/swap.csv) format. Data will be updated daily when it released.
 
-## CBRT Reserves
-
-By using the Swap Data above, I and [Ömer Taha Gülberk](https://www.linkedin.com/in/omertahagulberk/) prepared a [website](https://tcmb-reserves.github.io/) about CBRT's Net Reserves and Net Reserves excluding Swap. Website updates itself weekly when the data is released.
-
-
-
 
 
 ------------------------------------------------------------------------
@@ -63,3 +64,5 @@ By using the Swap Data above, I and [Ömer Taha Gülberk](https://www.linkedin.c
 ------------------------------------------------------------------------
 
 [! Mail ME !](mailto:ismet.asci@outlook.com){.highlight .pre} [! Github !](https://github.com/aiasci/) [! LinkedIn !](https://www.linkedin.com/in/ismetasci/)
+
+
