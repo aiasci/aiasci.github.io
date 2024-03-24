@@ -1,8 +1,11 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   back-to-top-navigation: true
+  google-analytics:
+    storage: none
+    tracking-id: G-VM5FZERPPB
   navbar:
     left:
       - href: index.qmd
