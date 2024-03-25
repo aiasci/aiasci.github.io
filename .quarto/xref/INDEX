@@ -12,6 +12,8 @@
     "blog.html": "c599d10f"
   },
   "cv.qmd": {
-    "cv.html": "4ed663b3"
+    "cv.html": "4ed663b3",
+    "cv.pdf": "4d44e87f",
+    "cv.tex": "fcc63e71"
   }
 }

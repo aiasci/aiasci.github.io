@@ -257,3 +257,45 @@ h2, h3 {
   align-items: left;
   text-align: left;
 }
+
+
+/* CV */
+
+.cvdate {
+  float: right;
+  font-style: italic
+}
+
+.print-only {
+  display: none;
+  /*color: aquamarine;*/
+}
+
+/* adapt stylesheet for print
+from: https://github.com/quarto-dev/quarto-cli/discussions/2538#discussioncomment-4081842 */
+
+/* for page-breaks use style spans
+  page-break-before: always;
+  page-break-after: always;
+*/
+
+@media print {
+  @page {
+      size: a4 portrait;
+      counter-increment: page;
+      @bottom-center {
+        content: counter(page)
+      }
+  }
+  .no-print {
+      display: none;
+  }
+  .print-only {
+      display: block;
+  }
+
+  .contact-block {
+      margin-top: 0%;
+      text-align: center;
+  }
+}

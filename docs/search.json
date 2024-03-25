@@ -9,9 +9,44 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "CV\n\n\n\n Back to top"
+    "text": "Interested in economics, especially economic development and growth, monetary theory, and macroprudential policies. Also, proficient in data manipulation, analysis, and visualization along with econometric time-series analysis. Willing to work in economic research departments, NGOs, and data analysis departments"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "SKILLS",
+    "text": "SKILLS\n\n\n\nMS OFFICE\nR\n\nData Manipulation\nData Visualization\nWeb Scrapping\nText Analysis\nShiny Apps\n\n\n\n\n\nPython\n\nData Manipulation\nData Visualization\nWeb Scrapping\nText Analysis\nGeospatial Analysis"
+  },
+  {
+    "objectID": "cv.html#languages",
+    "href": "cv.html#languages",
+    "title": "Curriculum Vitae",
+    "section": "LANGUAGES",
+    "text": "LANGUAGES\n\n\n\nTurkish Native\nPersian (A2)\n\n\n\n\nEnglish\n\nTOEFL IBT 94"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nMaster of Science – Economics  Middle East Technical University Oct 2021 — Present\n\nAnalysing Turkish Real Sector using firm-level data provided by Ministry of Industry and Technology \n\nDepartment of Economics  Middle East Technical University 2015 — 2021"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Curriculum Vitae",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\nResearch Associate\nThe Economic Policy Research Foundation of Turkey (TEPAV) Sep 2021 – Dec 2023\nGenerating datasets, data analysis, and reporting on local and international events that may affect the Turkish economy. Preparing plans regarding cooperation possibilities between Turkey and other countries. Producing reports for policy-makers, foreign governmental bodies/business organizations, NGOs, and local officials. In addition to the day-to-day workload I have also participated in projects included:\n\nTurkish Economic Outlook:\n\nI was part of a team that produced monthly reports on the Turkish Economic Outlook with selected indicators such as economic growth, production, and sales; foreign trade and balance of payments; employment; public finances; inflation; and financial market indicators.\n\nUNDP - Afghanistan Project:\n\nAfter the Taliban takeover in Afghanistan, I worked as a junior economic expert in Afghanistan’s private sector-led development and reported on challenges to women entrepreneurs with UNDP, IICPSD, and TEPAV. \nI helped to identify private sector-led development possibilities, by using export data as a proxy for production along with the methodology of Harvard Growth’s Lab then I differentiated the sectors by using GIS. Lastly, I studied the need for institutional frameworks to implement the project.\n\nGIZ - Istanbul Project:\n\nI was part of a research team for planning Istanbul’s food system which BMZ funds and carried out by GIZ, IPA, and TEPAV.\nAs a team, we focused on two aspects, where does Istanbul receive its food from and how does the national food system affect food prices? In three meetings, we shared our research on this issue with our stakeholders in the food sector, IPA and GIZ, and tried to prepare a common action plan.\n\nGIZ - Gaziantep Project:\n\nI was a part of the research and planning team for Gaziantep Industrial Zone’s Green Transition Project which is funded by BMZ and carried out by GIZ, Gaziantep Metropolitan Municipality, and TEPAV.\n\nJenin IFZ Project:\n\nI was part of a team working on the handover process of the Jenin Industrial Free Zone, on the Northern tip of the West Bank, from BMZ to UCCET (TOBB).\n\nEurochambres SME Surveys Project:\n\nI was part of a team that designed and analyzed SME surveys in Turkey and the EU for Turkey-EU business dialogue conferences which are conducted by Eurochambres and UCCET (TOBB).\n\nTurkish Earthquake Study:\n\nI was part of the team that studied the impact of the recent earthquake on the Turkish economy and possible policy frameworks regarding that. \nI collaborated with the team to create and analyze the needed statistics for the earthquake region. By using web scrapping we developed a tool for the most recent destroyed and damaged building statistics. Two reports on this issue were published by TEPAV."
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nAvailable upon request"
   },
   {
     "objectID": "blog.html",
@@ -25,6 +60,6 @@
     "href": "index.html",
     "title": "Websitesi",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n Back to top"
+    "text": "Back to top"
   }
 ]
